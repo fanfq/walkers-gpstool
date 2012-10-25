@@ -1,7 +1,7 @@
 walkers-gpstool
 ===============
 
-早期由sourceforge托管，也不想迁入到github中。
+早期由sourceforge托管，未有跟新前不会迁至到github中。
 如有需要下载源码请至 [sourceforge.net](https://sourceforge.net/projects/gpstools-droid/files/)
 
 ###工具介绍###
@@ -40,3 +40,9 @@ walkers-gpstool
  * 系统设置功能，可以有选择的删选导出格式，分页数，以及清空历史数据。
  * 用户手册功能，让用户熟知此软件的背景，方便其进一步的了解此软件。
  * 提供用户反馈的功能，方便作者收集反馈信息在下个版本中再予以跟新。（这个功能我不知道有多少用户愿意用，出发点还是希望有用户提供宝贵意见）
+
+####关于作者：####
+ * 热爱手指在键盘上跳舞的感觉，朋友们都叫我键盘动物。
+ * 新浪微博：[键盘动物](http://weibo.com/fanfq87)
+ * MSN/邮箱：fangqing.fan@hotmail.com
+ * 小小程序员一枚，专注移动开发。关注领域智能交通，移动通讯，物联网等。
